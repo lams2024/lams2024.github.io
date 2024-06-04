@@ -1,11 +1,11 @@
 ---
 title: Home
+nav: Home
 layout: page
 ---
 
-# Bootstrap Workshop Template!
+# Language Agents for Mathematics and Science 
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
 While scientific and mathematical research endeavors typically transact over many data modalities, natural language is ultimately the primary medium by which researchers communicate ideas to each other. 
 It is therefore strongly motivated to study if language agents (possibly augmented by other modalities) can accomplish useful research tasks, either autonomously or as a “co-pilot” for human researchers.
